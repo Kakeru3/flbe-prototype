@@ -1,0 +1,1 @@
+clang++ -I/usr/include -std=c++14   -fno-exceptions -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS CMakeFiles/flbe.dir/flbe.cpp.o CMakeFiles/flbe.dir/lexer/lexer.cpp.o CMakeFiles/flbe.dir/parser/parser.cpp.o CMakeFiles/flbe.dir/codegen/codegen.cpp.o -o flbe  -lLLVM-14 -L/usr/lib 

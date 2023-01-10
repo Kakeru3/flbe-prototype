@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/kakeru/Documents/flwer-lang/kaleidoscope/src/build",
+  "command": "clang++   -I/usr/include -std=c++14   -fno-exceptions -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/flbe.dir/flbe.cpp.o -c /home/kakeru/Documents/flwer-lang/kaleidoscope/src/flbe.cpp",
+  "file": "/home/kakeru/Documents/flwer-lang/kaleidoscope/src/flbe.cpp"
+},
+{
+  "directory": "/home/kakeru/Documents/flwer-lang/kaleidoscope/src/build",
+  "command": "clang++   -I/usr/include -std=c++14   -fno-exceptions -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/flbe.dir/lexer/lexer.cpp.o -c /home/kakeru/Documents/flwer-lang/kaleidoscope/src/lexer/lexer.cpp",
+  "file": "/home/kakeru/Documents/flwer-lang/kaleidoscope/src/lexer/lexer.cpp"
+},
+{
+  "directory": "/home/kakeru/Documents/flwer-lang/kaleidoscope/src/build",
+  "command": "clang++   -I/usr/include -std=c++14   -fno-exceptions -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/flbe.dir/parser/parser.cpp.o -c /home/kakeru/Documents/flwer-lang/kaleidoscope/src/parser/parser.cpp",
+  "file": "/home/kakeru/Documents/flwer-lang/kaleidoscope/src/parser/parser.cpp"
+},
+{
+  "directory": "/home/kakeru/Documents/flwer-lang/kaleidoscope/src/build",
+  "command": "clang++   -I/usr/include -std=c++14   -fno-exceptions -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/flbe.dir/codegen/codegen.cpp.o -c /home/kakeru/Documents/flwer-lang/kaleidoscope/src/codegen/codegen.cpp",
+  "file": "/home/kakeru/Documents/flwer-lang/kaleidoscope/src/codegen/codegen.cpp"
+}
+]

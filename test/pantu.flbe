@@ -1,0 +1,10 @@
+extern printd(x)
+
+fn main() {
+    var number = 10
+    if 10 < 1 {
+        printd(1)
+    } else {
+        printd(2)
+    }
+}

@@ -1,0 +1,3 @@
+/home/kakeru/Documents/flwer-lang/kaleidoscope/src/build/CMakeFiles/flbe.dir
+/home/kakeru/Documents/flwer-lang/kaleidoscope/src/build/CMakeFiles/edit_cache.dir
+/home/kakeru/Documents/flwer-lang/kaleidoscope/src/build/CMakeFiles/rebuild_cache.dir
